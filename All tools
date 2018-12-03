@@ -1,0 +1,12 @@
+apt update
+apt upgrade
+apt install python2
+apt install python
+apt install git
+pip install requests
+pip2 install mechanize
+pip2 install beautifulsoup4
+pip install –upgrade pip
+git clone https://github.com/king-hacking/King-Hacking
+cd King-Hacking
+bash King-Tools.sh
